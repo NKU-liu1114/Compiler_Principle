@@ -1,4 +1,4 @@
-# 文件说明
+# 文件说明~~（备忘录）~~
 
 ## 源代码部分
 jiechen.c为阶乘程序的c语言源码，jiechen.cpp为阶乘程序的出++语言源码，fib.c为斐波拉契数列程序源码。
@@ -22,5 +22,6 @@ fib和jiechen_x86即为ELF格式的可执行文件
 main.tex为Latex代码\
 NKU.png和imgs包含报告截图\
 Compiler_Lab0.pdf为生成的实验报告
+
 
 
