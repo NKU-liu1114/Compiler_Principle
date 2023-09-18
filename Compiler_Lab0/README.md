@@ -1,7 +1,7 @@
 # 文件说明
 ~~（备忘录）~~
 ## 源代码部分
-jiechen.c为阶乘程序的c语言源码，jiechen.cpp为阶乘程序的出++语言源码，fib.c为斐波拉契数列程序源码。
+jiechen.c为阶乘程序的c语言源码，jiechen.cpp为阶乘程序的c++语言源码，fib.c为斐波拉契数列程序源码。
 
 ## 预编译部分
 pre_c.i为jiechen.c预处理后产生的文件，pre_c++.i为jiechen.cpp预处理后产生的文件。
