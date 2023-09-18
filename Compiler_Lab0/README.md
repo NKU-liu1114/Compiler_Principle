@@ -7,7 +7,7 @@ jiechen.c为阶乘程序的c语言源码，jiechen.cpp为阶乘程序的出++语
 pre_c.i为jiechen.c预处理后产生的文件，pre_c++.i为jiechen.cpp预处理后产生的文件。
 
 ## 编译部分
-jiechen_x86.S是jiechen.c用gcc编译出的x86汇编代码，jiechen_arm.S是由jiechen.c交叉汇编出的arm汇编代码\
+jiechen_x86.S是jiechen.c用gcc编译出的x86汇编代码，jiechen_arm.S是由jiechen.c交叉编译出的arm汇编代码\
 jiechen_byllvm.S是用llvm编译出的x86汇编代码，jiechen.ll是llvm生成的llvm IR中间语言，fib.ll同理\
 fib.bc是llvm生成的llvm IR二进制代码形式，jiechen.log是llvm IR通过pass进行代码优化后的内容
 
