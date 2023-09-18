@@ -15,7 +15,7 @@ fib.bc是llvm生成的llvm IR二进制代码形式,jiechen.log是llvm IR通过pa
 jiechen_x86.o是由jiechen_86.S用gcc汇编成的目标代码文件，jiechen_arm.o是交叉编译出的arm格式的目标代码文件
 
 ## 可执行文件部分
-fib和jiechen_x86即为ELF格式的可执行文件
+fib和jiechen_x86即为x86格式的可执行文件,jiechen_arm即为arm格式的可执行文件
 
 ## 实验报告部分
 main.tex为Latex代码\
