@@ -22,5 +22,9 @@ main.tex为Latex代码\
 NKU.png和imgs包含报告截图\
 Compiler_Lab0.pdf为生成的实验报告
 
-
+'''cpp
+#include<iostream>
+using namespace std;
+int main(
+'''
 
