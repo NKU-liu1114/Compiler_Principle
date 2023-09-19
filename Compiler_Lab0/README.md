@@ -12,19 +12,18 @@ jiechen_byllvm.S是用llvm编译出的x86汇编代码，jiechen.ll是llvm生成�
 fib.bc是llvm生成的llvm IR二进制代码形式，jiechen.log是llvm IR通过pass进行代码优化后的内容
 
 ## 汇编部分
-jiechen_x86.o是由jiechen_86.S用gcc汇编成的目标代码文件，jiechen_arm.o是交叉编译出的arm格式的目标代码文件
+>jiechen_x86.o是由jiechen_86.S用gcc汇编成的目标代码文件，jiechen_arm.o是交叉编译出的arm格式的目标代码文件
 
 ## 可执行文件部分
-fib和jiechen_x86即为x86格式的可执行文件，jiechen_arm即为arm格式的可执行文件
+>fib和jiechen_x86即为x86格式的可执行文件，jiechen_arm即为arm格式的可执行文件
 
 ## 实验报告部分
-main.tex为Latex代码\
-NKU.png和imgs包含报告截图\
-Compiler_Lab0.pdf为生成的实验报告
+>main.tex为Latex代码\
+>NKU.png和imgs包含报告截图\
+>Compiler_Lab0.pdf为生成的实验报告
 
 ```cpp
 #include<iostream>
 using namespace std;
 int main(
 ```
->这是引用
