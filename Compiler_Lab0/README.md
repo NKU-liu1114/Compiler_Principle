@@ -22,7 +22,7 @@ fib.bc是llvm生成的llvm IR二进制代码形式，jiechen.log是llvm IR通过
 >NKU.png和imgs包含报告截图\
 >Compiler_Lab0.pdf为生成的实验报告
 
-```cpp
+```
 #include<iostream>
 using namespace std;
 int main(
